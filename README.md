@@ -1,8 +1,8 @@
 # Zmijica
 
 **objekti:**
-zmija
-kvadratici zmije -> cine zmiju
+*zmija
+*kvadratici zmije -> cine zmiju
 
 funkcije:
 kretanje
