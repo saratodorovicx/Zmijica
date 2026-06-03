@@ -1,6 +1,6 @@
 # Zmijica
 
-objekti:
+**objekti:**
 zmija
 kvadratici zmije -> cine zmiju
 
