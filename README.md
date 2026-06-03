@@ -1,5 +1,5 @@
 # Zmijica
-</u>29.05.2026</u>
+<ins>29.05.2026
 **objekti:**
 * zmija
 * kvadratici zmije -> cine zmiju
