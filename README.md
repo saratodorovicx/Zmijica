@@ -19,5 +19,8 @@
 **03.06.2026.**
 razvile pocetan deo koda, napravile ekran za igricu, skinule pygame, osmislile logiku igre
 
-**04.06.2026.**
+**04.06.2026.**  
+* SOFIJA - klasa Cube, randomBerries, prezentacija
+* SARA - klasa Zmija, main
+
 
