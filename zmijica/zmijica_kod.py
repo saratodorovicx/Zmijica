@@ -245,6 +245,7 @@ class Game:
         self.gameOverCounter = 0
         self.gameOverCounter2 = 0
         self.soundCheck = True
+        self.replayRect = pygame.Rect(0, 0, 0, 0)
 
     def randomBerry(self):
         occupied = True
