@@ -23,4 +23,6 @@ razvile pocetan deo koda, napravile ekran za igricu, skinule pygame, osmislile l
 * SOFIJA - klasa Cube, randomBerries, prezentacija
 * SARA - klasa Zmija, main
 
+**prezentacija**
+https://canva.link/0d9sfdye35jbtgr
 
